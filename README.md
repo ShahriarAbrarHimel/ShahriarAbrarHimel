@@ -1,6 +1,5 @@
 [![MasterHead](https://github.com/ShahriyarAbrarHimel/ShahriyarAbrarHimel/blob/main/Shahriyar%20Abrar%20Himel%20(1).png)](https://khushboogoel01.github.io)
-<h1 align="center">Hi 👋, I'm Khushboo Goel</h1>
-<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
+
 
 ### Hi there, I'm Shahriyar-Abrar-Himel [Compiling-Hero] 👋
 
