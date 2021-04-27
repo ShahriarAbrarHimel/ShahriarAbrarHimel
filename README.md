@@ -82,12 +82,12 @@
 
 </details>
 
-[website]:
-[twitter]:
-[youtube]: 
-[instagram]: 
-[linkedin]:
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]:
-[reactplaylist]:
+[website]:https://
+[twitter]:https://
+[youtube]:https://
+[instagram]: https://
+[linkedin]:https://
+[webdevplaylist]:https://
+[jsplaylist]:https://
+[cssplaylist]:https://
+[reactplaylist]:https://
