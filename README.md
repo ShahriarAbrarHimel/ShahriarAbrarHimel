@@ -10,8 +10,8 @@
 - I am always keen to acquire new skills and also to master those that I already have under my skill set. As a result, theseare some of the skills that I have acquired through academic qualifications and work experience.
 
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Develop and make things 
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to Develop and make things.
 
 
 
