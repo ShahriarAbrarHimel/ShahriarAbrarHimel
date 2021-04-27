@@ -1,3 +1,7 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_200_800/0/1600774582457?e=1620259200&v=beta&t=vXT6lMDE7ZIkd9OGzG5yLkRLmTDt0kijoQ-ly73bM3U)](https://khushboogoel01.github.io)
+<h1 align="center">Hi 👋, I'm Khushboo Goel</h1>
+<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
+
 ### Hi there, I'm Shahriyar-Abrar-Himel [Compiling-Hero] 👋
 
 [![Website](https://img.shields.io/badge/-http%3A%2F%2Fshahriyarabrarhimel.ml%2F-red)](http://shahriyarabrarhimel.ml/)
