@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I love to Develop and make things.
 
 
-
+<hr>
 
 ### Connect with me:
 
