@@ -31,6 +31,26 @@
 
 <br/>
 
+##### A little more about me...  
+
+```javascript
+const Himel = {
+  Pronouns: "He" | "Him",
+  Description : [Passionate, Optimistic, 
+                Bibliophile, Tech enthusiast  
+                and a lot more ],
+  Education : 
+           [ 
+           { School: GMMSC, 
+             Year :2014-Now  }, 
+           { It  : ,  
+                 } 
+           ],
+ Experience : ['Intern @ Twitter', 
+            'Backend developer at  ', 
+            'React developer at  ' ]
+}
+```
 
 
 
