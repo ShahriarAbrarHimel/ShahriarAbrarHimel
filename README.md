@@ -53,6 +53,9 @@ const Himel = {
                          Programming Hero,
                          stack learner,
                          Rabbil Hasan,
+                         learnwith hasinhayder,
+                         Softech It,
+                         Graphic School,
 
                  } 
            ],
