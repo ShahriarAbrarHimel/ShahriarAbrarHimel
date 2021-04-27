@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/-http%3A%2F%2Fshahriyarabrarhimel.ml%2F-red)](http://shahriyarabrarhimel.ml/)
 [![Twitter Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2F)](&)
 
-## I'm a Student , MERN~Stack & Full~Stack Web||App Developer!
+## I'm a Student , MERN-Stack & Full-Stack Web||App Developer!
 
 - I am always keen to acquire new skills and also to master those that I already have under my skill set. As a result, theseare some of the skills that I have acquired through academic qualifications and work experience.
 
