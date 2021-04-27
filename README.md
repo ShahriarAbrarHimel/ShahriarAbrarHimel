@@ -76,19 +76,6 @@ const Himel = {
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriyarabrarhimel&" alt="shahriyarabrarhimel" /></p>
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/)
-
-
-➡️ [more blog posts...](https://)
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -102,6 +89,24 @@ const Himel = {
 <!--END_SECTION:activity-->
 
 </details>
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriyarabrarhimel&" alt="shahriyarabrarhimel" /></p>
+</details>
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/)
+
+
+➡️ [more blog posts...](https://)
+
+---
+
+
 
 
 
