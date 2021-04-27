@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_200_800/0/1600774582457?e=1620259200&v=beta&t=vXT6lMDE7ZIkd9OGzG5yLkRLmTDt0kijoQ-ly73bM3U)](https://khushboogoel01.github.io)
+[![MasterHead](https://www.canva.com/design/DAEc3bE7Glk/share/preview?token=SU3YayeeoHZfxgE6BRMp7Q&role=EDITOR&utm_content=DAEc3bE7Glk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Khushboo Goel</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
