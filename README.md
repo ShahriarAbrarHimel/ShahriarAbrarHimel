@@ -36,19 +36,29 @@
 ```javascript
 const Himel = {
   Pronouns: "He" | "Him",
-  Description : [Passionate, Optimistic, 
-                Bibliophile, Tech enthusiast  
-                and a lot more ],
+  Description : [Optimistic, 
+                It technolodgy ,
+                Programming, 
+                Tech enthusiast and a lot more  
+                ],
   Education : 
            [ 
            { School: GMMSC, 
-             Year :2014-Now  }, 
-           { It  : ,  
+             Year :2014 - 2021  
+           }, 
+           {it training :Eshikhon,
+                         Bohubrihi,
+                         REPTO,
+                         MND Developers,
+                         Programming Hero,
+                         stack learner,
+                         Rabbil Hasan,
+
                  } 
            ],
- Experience : ['Intern @ Twitter', 
-            'Backend developer at  ', 
-            'React developer at  ' ]
+ Experience : [' [Compiling-Hero]  @ Twitter', 
+            'Backend developer at [Compiling-Hero] ', 
+            'React developer at [Compiling-Hero] ' ]
 }
 ```
 
