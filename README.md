@@ -1,7 +1,6 @@
 
-[![MasterHead](https://github.com/ShahriyarAbrarHimel/ShahriyarAbrarHimel/blob/main/Shahriyar%20Abrar%20Himel%20(1).png)](himel)
-=======
-[![MasterHead](https://github.com/ShahriyarAbrarHimel/ShahriyarAbrarHimel/blob/main/Shahriyar%20Abrar%20Himel%20(1).png)](https://khushboogoel01.github.io)
+
+[![MasterHead](https://github.com/ShahriyarAbrarHimel/ShahriyarAbrarHimel/blob/main/Shahriyar%20Abrar%20Himel%20(1).png)]()
 
 
 
