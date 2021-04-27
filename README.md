@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAEc3bE7Glk/share/preview?token=SU3YayeeoHZfxgE6BRMp7Q&role=EDITOR&utm_content=DAEc3bE7Glk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)](https://khushboogoel01.github.io)
+[![MasterHead]()](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Khushboo Goel</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
