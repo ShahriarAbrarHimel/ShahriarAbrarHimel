@@ -66,12 +66,16 @@ const Himel = {
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Most Used languages </summary>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriyarabrarhimel&show_icons=true&locale=en&layout=compact" alt="shahriyarabrarhimel" /></p>
 </details>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriyarabrarhimel&show_icons=true&locale=en" alt="shahriyarabrarhimel" /></p>
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriyarabrarhimel&" alt="shahriyarabrarhimel" /></p>
 
 ---
@@ -99,12 +103,7 @@ const Himel = {
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 ### Connect with me:
 
