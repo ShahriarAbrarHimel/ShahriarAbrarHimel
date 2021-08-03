@@ -30,7 +30,7 @@ I'm 16-year-old boy on an intention to enhance as a successful full-stack web de
 <a href="https://codesandbox.io/u/ShahriyarAbrarHimel" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="shahriyarabrarhimel" height="30" width="40" /></a>
  <a href="https://codepen.io/shahriyarabrarhimel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shahriyarabrarhimel" height="30" width="40" /></a>
 </p>
-<a href="https://www.figma.com/@shahriyar_dev" target="_blank"><img  align="center" src="https://github.com/ShahriyarAbrarHimel/ShahriyarAbrarHimel/blob/main/download.png" height="30" width="40" /></a>
+<a href="https://www.figma.com/@shahriyar_dev" target="_blank"><img  align="center" src="https://github.com/ShahriyarAbrarHimel/ShahriyarAbrarHimel/blob/main/download.png" height="30" width="40" alt="figma.com" /></a>
 </p>
 ## Find me around the web 🌍
 
