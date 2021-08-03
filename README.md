@@ -7,8 +7,8 @@
 <h3 align="center">MERN-Stack & Full-Stack Web||App Developer ||Graphic Designer</h3>
 
 I'm 16-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community. Open to all DMs on [Twitter](https://twitter.com/shahriyar_dev)
-![age](https://img.shields.io/badge/age-16-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+-![age](https://img.shields.io/badge/age-16-blue)
+-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 
 - 🔭 I’m currently working on my MERN Stack
 - 🌱 I’m currently learning Php,JS,Python,React,Laravel 
