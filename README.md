@@ -10,14 +10,50 @@
 [![Website](https://img.shields.io/badge/-http%3A%2F%2Fshahriyarabrarhimel.ml%2F-red)](http://shahriyarabrarhimel.ml)
 [![Twitter Follow](https://img.shields.io/twitter/url?url=https://twitter.com/abrar_himel)](&)
 
-## I'm a Student , MERN-Stack & Full-Stack Web||App Developer!
+
+I'm 16-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community. Open to all DMs on [Twitter](https://twitter.com/shahriyar_dev)
+
+- 🔭 I’m currently working on my MERN Stack
+- 🌱 I’m currently learning Php,JS,Python,React,Laravel 
+- 👯 I’m looking to collaborate on Full stack web development
+- 🤔 I’m looking for help with Backend & APIs
+- 💬 Ask me about Frontend Technologies
+- 📫 How to reach me: [no-reply@shahriyarabrarhimel.xyz](mailto:no-reply@shahriyarabrarhimel.xyz) & [Twitter @shahriyar_dev](https://twitter.com/shahriyar_dev)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
+
+## Find me around the web 🌍
+
+- [Instagram](https://www.instagram.com/teen_developer/)
+- [LinkedIn](https://www.linkedin.com/in/saviomartin)
+- [Twitter](https://twitter.com/saviomartin7)
+- [Codepen](https://codepen.io/saviomartin/)
+- [Figma](https://www.figma.com/@saviomartin)
+- [Hashnode](https://hashnode.com/@saviomartin)
+- [Dev.to](https://dev.to/saviomartin)
+
+## My skills 🚀
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
 - I am always keen to acquire new skills and also to master those that I already have under my skill set. As a result, theseare some of the skills that I have acquired through academic qualifications and work experience.
-
-
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to Develop and make things.
-
 
 <hr>
 
