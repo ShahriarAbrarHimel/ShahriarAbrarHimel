@@ -32,15 +32,6 @@ I'm 16-year-old boy on an intention to enhance as a successful full-stack web de
 <a href="https://www.figma.com/@shahriyar_dev" target="_blank"><img align="center" src="https://github.com/ShahriyarAbrarHimel/ShahriyarAbrarHimel/blob/main/download.png" height="30" width="40" alt="figma.com" /></a>
  
 </p>
-## Find me around the web 🌍
-
-- [Instagram](https://www.instagram.com/teen_developer/)
-- [LinkedIn](https://www.linkedin.com/in/saviomartin)
-- [Twitter](https://twitter.com/saviomartin7)
-- [Codepen](https://codepen.io/saviomartin/)
-- [Figma](https://www.figma.com/@saviomartin)
-- [Hashnode](https://hashnode.com/@saviomartin)
-- [Dev.to](https://dev.to/saviomartin)
 
 <hr>
 
