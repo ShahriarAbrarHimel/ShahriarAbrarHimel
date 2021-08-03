@@ -1,4 +1,5 @@
-### Hi 👋 there <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
+![1](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/name.gif) there <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 <h1 align="center">I'm Shahriyar Abrar Himel</h1>
 
 [![MasterHead](https://github.com/ShahriyarAbrarHimel/ShahriyarAbrarHimel/blob/main/Shahriyar%20Abrar%20Himel%20(1).png)]()
