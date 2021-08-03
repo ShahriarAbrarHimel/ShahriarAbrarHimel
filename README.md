@@ -1,10 +1,9 @@
-
+### Hi 👋 there <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+<h1 align="center">I'm Shahriyar Abrar Himel</h1>
 
 [![MasterHead](https://github.com/ShahriyarAbrarHimel/ShahriyarAbrarHimel/blob/main/Shahriyar%20Abrar%20Himel%20(1).png)]()
 
 
-
-<h1 align="center">Hi 👋, I'm Shahriyar Abrar Himel</h1>
 <h3 align="center">MERN-Stack & Full-Stack Web||App Developer ||Graphic Designer</h3>
 
 [![Website](https://img.shields.io/badge/-http%3A%2F%2Fshahriyarabrarhimel.ml%2F-red)](http://shahriyarabrarhimel.ml)
