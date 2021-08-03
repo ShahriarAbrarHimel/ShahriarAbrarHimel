@@ -4,7 +4,8 @@
 
 
 
-### Hi there, I'm Shahriyar-Abrar-Himel [Compiling-Hero] 👋
+<h1 align="center">Hi 👋, I'm Shahriyar Abrar Himel</h1>
+<h3 align="center">MERN-Stack & Full-Stack Web||App Developer ||Graphic Designer</h3>
 
 [![Website](https://img.shields.io/badge/-http%3A%2F%2Fshahriyarabrarhimel.ml%2F-red)](http://shahriyarabrarhimel.ml)
 [![Twitter Follow](https://img.shields.io/twitter/url?url=https://twitter.com/abrar_himel)](&)
