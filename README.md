@@ -7,7 +7,7 @@
 ### Hi there, I'm Shahriyar-Abrar-Himel [Compiling-Hero] 👋
 
 [![Website](https://img.shields.io/badge/-http%3A%2F%2Fshahriyarabrarhimel.ml%2F-red)](http://shahriyarabrarhimel.ml)
-[![Twitter Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2F)](&)
+[![Twitter Follow](https://img.shields.io/twitter/url?url=https://twitter.com/abrar_himel)](&)
 
 ## I'm a Student , MERN-Stack & Full-Stack Web||App Developer!
 
