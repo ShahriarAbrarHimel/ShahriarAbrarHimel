@@ -6,7 +6,10 @@
 
 <h3 align="center">MERN-Stack & Full-Stack Web||App Developer ||Graphic Designer</h3>
 
-I'm 16-year-old boy on an intention to enhance as a successful full-stack web developer :sunglasses:. I love :green_heart: building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community:boom:. Open to all DMs on :speech_balloon:[Twitter](https://twitter.com/shahriyar_dev)
+I am himel. A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact. I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️
+
+My field of Interest's are building new Web Technologies and Products and also in areas related to Deep Learning and Natural Launguage Processing.
+Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks like React.js ans Next.js. I love to share my resources and expertise with the dev community:boom:. Open to all DMs on :speech_balloon:[Twitter](https://twitter.com/shahriar_dev)
 
 
 - 🔭 I’m currently working on my MERN Stack
