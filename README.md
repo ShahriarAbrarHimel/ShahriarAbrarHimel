@@ -41,21 +41,6 @@ Whenever possible, I also apply my passion for developing products with Node.js 
 </p>
 
 <hr>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```Python
-frontEnd = {
-            js: ["Jquery","React.js"],
-            css: ["materialize", "bootstrap"]
-          }
-backEnd: {
-            python: ["Django","Django Rest Framework"]
-        }
-databases: ["SQL"],
-
-code: ["Python","Javascript", "java", "c","php"],
-
-```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
@@ -107,21 +92,26 @@ code: ["Python","Javascript", "java", "c","php"],
 ![Git hub](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Vercel](http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white)
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```Python
+frontEnd = {
+            js: ["Jquery","React.js"],
+            css: ["materialize", "bootstrap"]
+          }
+backEnd: {
+            python: ["Django","Django Rest Framework"]
+        }
+databases: ["SQL"],
+
+code: ["Python","Javascript", "java", "c","php"],
+
+```
 <details>
 <summary>:zap: Most Used languages </summary>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarabrarhimel&show_icons=true&locale=en&layout=compact" alt="shahriyarabrarhimel" /></p>
-</details>
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriyarabrarhimel&" alt="shahriyarabrarhimel" /></p>
 </details>
 
 ### 📕 Latest Blog Posts
