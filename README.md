@@ -102,7 +102,10 @@ code: ["Python","Javascript", "java", "c","php"],
 ![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF)
-
+![Google Cloud](http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white)
+![Progressive Web Apps](https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat)
+![Git hub](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Vercel](http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white)
 
 
 <summary>:zap: Most Used languages </summary>
