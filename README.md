@@ -75,10 +75,14 @@ code: ["Python","Javascript", "java", "c","php"],
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)
 ![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)
+![GraphQl](https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF)
+![Express.js](https://img.shields.io/badge/-Express.js-787878?style=flat)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF)
 <h2 align="left">Languages and Tools:</h2>
 
 
