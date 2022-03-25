@@ -62,40 +62,8 @@ code: ["Python","Javascript", "java", "c","php"],
 
 ```
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-##### A little more about me...  
-
-```javascript
-const Himel = {
-  Pronouns: "He" | "Him",
-  Description : [Optimistic, 
-                It technolodgy ,
-                Programming, 
-                Tech enthusiast and a lot more  
-                ],
-  Education : 
-           [ 
-           { School: GMMSC, 
-             Year :2014 - 2021  
-           }, 
-           {it training :Eshikhon,
-                         Bohubrihi,
-                         REPTO,
-                         MND Developers,
-                         Programming Hero,
-                         stack learner,
-                         Rabbil Hasan,
-                         learnwith hasinhayder,
-                         Softech It,
-                         Graphic School,
-
-                 } 
-           ],
- Experience : [' [Compiling-Hero]  @ Twitter', 
-            'Backend developer at [Compiling-Hero] ', 
-            'React developer at [Compiling-Hero] ' ]
-}
-```
 
 ## My skills 🚀
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
