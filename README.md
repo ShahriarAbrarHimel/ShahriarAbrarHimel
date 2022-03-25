@@ -95,7 +95,7 @@ code: ["Python","Javascript", "java", "c","php"],
 ![Next.js](https://img.shields.io/badge/-Nextjs-black?style=flat&logo=Nextjs)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
 
-
+<h3 align="left">Database and server hosting</h3>
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)
