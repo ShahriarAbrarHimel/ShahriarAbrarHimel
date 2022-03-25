@@ -74,6 +74,7 @@ code: ["Python","Javascript", "java", "c","php"],
 ![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
 
+
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)
@@ -83,6 +84,9 @@ code: ["Python","Javascript", "java", "c","php"],
 ![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx)
 ![Php](https://img.shields.io/badge/-php-black?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-laravel-black?style=flat&logo=laravel)
+![Python](https://img.shields.io/badge/-python-blue?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
+
 
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
