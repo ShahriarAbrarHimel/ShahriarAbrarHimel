@@ -84,7 +84,7 @@ code: ["Python","Javascript", "java", "c","php"],
 ![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx)
 ![Php](https://img.shields.io/badge/-php-black?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-laravel-black?style=flat&logo=laravel)
-![Python](https://img.shields.io/badge/-python-blue?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-python-black?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
 
 
