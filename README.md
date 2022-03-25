@@ -1,10 +1,10 @@
 ### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,<𝚌𝚘𝚍𝚎𝚛𝚜/>!
-<h1 align="center">I'm Shahriyar Abrar Himel</h1>
+<h1 align="center">I'm Shahriar Abrar Himel</h1>
 
 [![MasterHead](https://github.com/ShahriarAbrarHimel/ShahriyarAbrarHimel/blob/main/header_.png)]()
 
 
-<h3 align="center">MERN-Stack & Full-Stack Web||App Developer ||Graphic Designer</h3>
+<h3 align="center">MERN-Stack Website Developer || Android & Cross-platform App Developer</h3>
 
 I am himel. A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact. I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️
 
