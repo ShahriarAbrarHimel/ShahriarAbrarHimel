@@ -74,7 +74,7 @@ code: ["Python","Javascript", "java", "c","php"],
 ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)
 ![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
-![Material Ui](https://img.shields.io/badge/-Material Ui-black?style=flat&logo=materialui)
+![Material Ui](https://img.shields.io/badge/-MaterialUi-black?style=flat&logo=materialui)
 ![Styled Component](https://img.shields.io/badge/-StyledComponent-black?style=flat&logo=styledcomponent)
 
 #Back End
