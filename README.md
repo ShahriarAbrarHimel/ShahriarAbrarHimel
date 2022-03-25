@@ -62,22 +62,25 @@ code: ["Python","Javascript", "java", "c","php"],
 
 ## My skills 🚀
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)]
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)]
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)]
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)]
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)]
-[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron)] 
-[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)] 
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)]
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)]
+![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff)
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)]
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)]
-[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)] 
-[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron)
+![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)
 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)]
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)]
+![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)
+![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)
+
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)
+
 
 <h2 align="left">Languages and Tools:</h2>
 
