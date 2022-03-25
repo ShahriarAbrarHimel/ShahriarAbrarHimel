@@ -62,6 +62,7 @@ code: ["Python","Javascript", "java", "c","php"],
 
 ## My skills 🚀
 
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff)
@@ -70,6 +71,8 @@ code: ["Python","Javascript", "java", "c","php"],
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron)
 ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)
+![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
@@ -77,12 +80,17 @@ code: ["Python","Javascript", "java", "c","php"],
 ![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)
 ![GraphQl](https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF)
 ![Express.js](https://img.shields.io/badge/-Express.js-787878?style=flat)
+![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx)
+![Php](https://img.shields.io/badge/-php-black?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-laravel-black?style=flat&logo=laravel)
+
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF)
+
 <h2 align="left">Languages and Tools:</h2>
 
 
