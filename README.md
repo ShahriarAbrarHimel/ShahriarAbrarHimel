@@ -11,6 +11,8 @@ I am himel. A passionate individual who always thrives to work on end to end pro
 My field of Interest's are building new Web Technologies and Products and also in areas related to Deep Learning and Natural Launguage Processing.
 Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks like React.js ans Next.js. I love to share my resources and expertise with the dev community:boom:. Open to all DMs on :speech_balloon:[Twitter](https://twitter.com/shahriar_dev)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 ![](https://img.shields.io/badge/Profile%20views-2671-black)
 - 🔭 I’m currently working on my MERN Stack
 - 🌱 I’m currently learning Php,JS,Python,React,Laravel 
@@ -39,10 +41,6 @@ Whenever possible, I also apply my passion for developing products with Node.js 
 <a href="https://www.topcoder.com/members/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="xyz" height="30" width="40" /></a>
 <a href="/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="xyz" height="30" width="40" /></a>
 </p>
-
-<hr>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
 ## My skills 🚀
