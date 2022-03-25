@@ -62,8 +62,7 @@ code: ["Python","Javascript", "java", "c","php"],
 
 ## My skills 🚀
 
-##Front End
-<h2 align="left">Languages and Tools:</h2>
+<h3 align="left">Front End Languages and Tools:</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -79,7 +78,7 @@ code: ["Python","Javascript", "java", "c","php"],
 ![Material Ui](https://img.shields.io/badge/-MaterialUi-black?style=flat&logo=materialui)
 ![Styled Component](https://img.shields.io/badge/-StyledComponent-black?style=flat&logo=styledcomponent)
 
-#Back End
+<h3 align="left">Back End Languages and Tools:</h3>
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
