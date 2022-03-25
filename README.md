@@ -11,7 +11,7 @@ I am himel. A passionate individual who always thrives to work on end to end pro
 My field of Interest's are building new Web Technologies and Products and also in areas related to Deep Learning and Natural Launguage Processing.
 Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks like React.js ans Next.js. I love to share my resources and expertise with the dev community:boom:. Open to all DMs on :speech_balloon:[Twitter](https://twitter.com/shahriar_dev)
 
-
+![](https://img.shields.io/badge/Profile%20views-2671-black)
 - 🔭 I’m currently working on my MERN Stack
 - 🌱 I’m currently learning Php,JS,Python,React,Laravel 
 - 👯 I’m looking to collaborate on Full stack web development
