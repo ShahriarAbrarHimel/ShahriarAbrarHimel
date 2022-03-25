@@ -63,9 +63,9 @@ code: ["Python","Javascript", "java", "c","php"],
 ## My skills 🚀
 
 ##Front End
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=tailwind)
 ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
@@ -74,8 +74,10 @@ code: ["Python","Javascript", "java", "c","php"],
 ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)
 ![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
+![Material Ui](https://img.shields.io/badge/-Material Ui-black?style=flat&logo=materialui)
+![Styled Component](https://img.shields.io/badge/-StyledComponent-black?style=flat&logo=styledcomponent)
 
-##Backend
+#Back End
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
@@ -88,6 +90,10 @@ code: ["Python","Javascript", "java", "c","php"],
 ![Laravel](https://img.shields.io/badge/-laravel-black?style=flat&logo=laravel)
 ![Python](https://img.shields.io/badge/-python-blue?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux)
+![Next.js](https://img.shields.io/badge/-Nextjs-black?style=flat&logo=Nextjs)
+![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
+
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
