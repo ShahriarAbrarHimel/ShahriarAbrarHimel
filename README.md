@@ -1,4 +1,4 @@
-### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="5px">,<𝚌𝚘𝚍𝚎𝚛𝚜/>!
+### Hi,<𝚌𝚘𝚍𝚎𝚛𝚜/>!
 <h1 align="center">I'm Shahriar Abrar Himel</h1>
 
 [![MasterHead](https://github.com/ShahriarAbrarHimel/ShahriyarAbrarHimel/blob/main/header_.png)]()
