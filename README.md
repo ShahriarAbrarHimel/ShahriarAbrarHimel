@@ -1,5 +1,5 @@
 ### Hi,<𝚌𝚘𝚍𝚎𝚛𝚜/>!
-<h1 align="center">I'm Shahriar Abrar Himel</h1>
+<h1 align="center">I'm Shahriar Abrar Himel 👋</h1>
 
 <p align="center">
 <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
@@ -8,14 +8,14 @@
 
 <h3 align="center">MERN-Stack Website Developer || Android & Cross-platform App Developer</h3>
 
-I am himel. A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact. I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️
+I'm Himel, also known as Shahriar Abrar Himel, a self-learner of MERN-Stack Website Developer , Android & Cross-platform App Developer ,Graphic Designer ,Programming from Dhaka, Bangladesh. I love coding, solving problems, building amazing projects, reading books & many other cool stuffs.
 
 My field of Interest's are building new Web Technologies and Products and also in areas related to Deep Learning and Natural Launguage Processing.
 Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks like React.js ans Next.js. I love to share my resources and expertise with the dev community:boom:. Open to all DMs on :speech_balloon:[Twitter](https://twitter.com/shahriar_dev)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-![](https://img.shields.io/badge/Profile%20views-2671-black)
+![](https://img.shields.io/badge/Profile%20views-2894-black)
 - 🔭 I’m currently working on my MERN Stack
 - 🌱 I’m currently learning Php,JS,Python,React,Laravel 
 - 👯 I’m looking to collaborate on Full stack web development
