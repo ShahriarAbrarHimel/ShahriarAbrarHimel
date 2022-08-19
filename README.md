@@ -15,15 +15,20 @@ I am interested in Web Applications and everything in its orbit. I fascinated by
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ![](https://img.shields.io/badge/Profile%20views-2894-black)
-- 🔭 I’m currently working on my MERN Stack
-- 🌱 I’m currently learning Php,JS,Python,React,Laravel 
-- 👯 I’m looking to collaborate on Full stack web development
-- 🤔 I’m looking for help with Backend & APIs
-- 💬 Ask me about Frontend Technologies
-- 📫 How to reach me: [no-reply@shahriyarabrarhimel.xyz](mailto:no-reply@shahriyarabrarhimel.xyz) & [Twitter @shahriar_dev](https://twitter.com/shahriar_dev)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
-<h2 align="left">Find me around the web 🌍</h2>
+
+-  I’m currently working on my MERN Stack
+-  I’m currently learning Php,JS,Python,React,Laravel 
+-  I’m looking to collaborate on Full stack web development
+-  I’m looking for help with Backend & APIs
+-  Dreams: Become a world's no 1 full-stack web developer.
+-  Ask me Programming, Web Development, Web Design, Web Applications, Web Hosting
+-  How to reach me: [info.shahriarabrarhimel@gmail.com](mailto:info.shahriarabrarhimel@gmail.com)
+-  Pronouns: He/Him (Himel)
+-  Fun fact: I want to travel the whole world
+
+
+
+<h2 align="left">Find me around the web </h2>
 <p align="left">
 <a href="https://dev.to/shahriar_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shahriar_dev" height="30" width="40" /></a>
 <a href="https://twitter.com/shahriar_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahriar_dev" height="30" width="40" /></a>
@@ -125,23 +130,3 @@ I am interested in Web Applications and everything in its orbit. I fascinated by
 
 
 
-
-
-<details>
-<summary>:zap: Most Used languages </summary>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarabrarhimel&show_icons=true&locale=en&layout=compact" alt="shahriyarabrarhimel" /></p>
-</details>
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [app](https://dev.to/)
-
-
-➡️ [more blog posts...](https://)
-
---
-
-
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
