@@ -8,20 +8,26 @@
 
 <h3 align="center">MERN-Stack Website Developer || Android & Cross-platform App Developer</h3>
 
-I'm Himel, also known as Shahriar Abrar Himel I am a professional Full Stack Web developer having core expertise in developing high-quality, interactive, pixel-perfect, and responsive web applications using React.js & PHP I have 2+ years of experience in PHP ,MYSQL ,Bootstrap ,JQuery ,Java Script ,C/C++, and Python.. I have worked in almost all PHP frameworks. I am a lead of 15 developers and pretty confident to provide right solutions for all complex queries. My websites have custom features based on your needs. Whether you need CRM ,CMS ,business ,content based ,business management website
+I am Shahriar Abrar Himel, also known as Himel, a seasoned Full Stack Web developer with a strong focus on crafting top-notch, interactive, and responsive web applications using React.js and PHP. With over 2 years of experience in PHP, MYSQL, Bootstrap, jQuery, JavaScript, C/C++, and Python, I possess comprehensive expertise in various aspects of web development.
 
-I am interested in Web Applications and everything in its orbit. I fascinated by web programming, developing apps and building websites. I am gaining knowledge and ideas working in this area. I am keen to gain more experience in the field. My goal is to build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.
+Throughout my journey, I have immersed myself in multiple PHP frameworks, honing my skills and becoming well-versed in tackling intricate challenges. As a lead, I have successfully managed and guided a team of 15 developers, ensuring the delivery of optimal solutions for complex queries.
+
+My websites are tailored to meet your specific requirements, incorporating custom features that align perfectly with your needs. Whether you seek a CRM, CMS, business management, or content-based website, I can provide the ideal solution.
+
+Web Applications have always been my passion, and I find immense fascination in web programming, app development, and website building. Continuously seeking knowledge and exploring innovative ideas in this domain, I am eager to expand my expertise and gain further experience.
+
+My ultimate goal is to create scalable and efficient applications, delivering seamless user experiences with pixel-perfect precision.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ![](https://img.shields.io/badge/Profile%20views-2894-black)
 
 -  I’m currently working on my MERN Stack
--  I’m currently learning Php,JS,Python,React,Laravel 
+-  I’m currently learning Python
 -  I’m looking to collaborate on Full stack web development
 -  I’m looking for help with Backend & APIs
--  Dreams: Become a world's no 1 full-stack web developer.
--  Ask me Programming, Web Development, Web Design, Web Applications, Web Hosting
+-  Dreams: Become the world's no 1 full-stack web developer.
+-  Ask me about: Programming, Web Development, Web Design, Web Applications, Web Hosting
 -  How to reach me: [info.shahriarabrarhimel@gmail.com](mailto:info.shahriarabrarhimel@gmail.com)
 -  Pronouns: He/Him (Himel)
 -  Fun fact: I want to travel the whole world
