@@ -20,7 +20,7 @@ My ultimate goal is to create scalable and efficient applications, delivering se
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-![](https://img.shields.io/badge/Profile%20views-2894-black)
+![](https://img.shields.io/badge/Profile%20views-3894-black)
 
 -  I’m currently working on my MERN Stack
 -  I’m currently learning Python
