@@ -6,7 +6,7 @@
 </p>
 
 
-<h3 align="center">MERN-Stack Website Developer || Android & Cross-platform App Developer</h3>
+<h3 align="center">Programmer | Tech Writer | Full Stack Web developer</h3>
 
 I am Shahriar Abrar Himel, also known as Himel, a seasoned Full Stack Web developer with a strong focus on crafting top-notch, interactive, and responsive web applications using React.js and PHP. With over 2 years of experience in PHP, MYSQL, Bootstrap, jQuery, JavaScript, C/C++, and Python, I possess comprehensive expertise in various aspects of web development.
 
