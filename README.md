@@ -18,7 +18,7 @@ Web Applications have always been my passion, and I find immense fascination in 
 
 My ultimate goal is to create scalable and efficient applications, delivering seamless user experiences with pixel-perfect precision.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ![](https://img.shields.io/badge/Profile%20views-2894-black)
 
