@@ -8,15 +8,11 @@
 
 <h3 align="center">Programmer | Tech Writer | Full Stack Web developer</h3>
 
-I am Shahriar Abrar Himel, also known as Himel, a seasoned Full Stack Web developer with a strong focus on crafting top-notch, interactive, and responsive web applications using React.js and PHP. With over 2 years of experience in PHP, MYSQL, Bootstrap, jQuery, JavaScript, C/C++, and Python, I possess comprehensive expertise in various aspects of web development.
+I'm Himel, a dedicated Full Stack Web developer with a knack for building interactive, responsive web applications using React.js and PHP. With over two years of hands-on experience in PHP, MySQL, Bootstrap, jQuery, JavaScript, C/C++, and Python, I’ve mastered the art of tackling complex challenges and delivering efficient, scalable solutions.
 
-Throughout my journey, I have immersed myself in multiple PHP frameworks, honing my skills and becoming well-versed in tackling intricate challenges. As a lead, I have successfully managed and guided a team of 15 developers, ensuring the delivery of optimal solutions for complex queries.
+My passion for technology has led me to explore various PHP frameworks and manage a team of 15 developers, ensuring that every project meets the highest standards. Whether it's developing a custom CRM, CMS, or a business management platform, I tailor each website to fit your specific needs.
 
-My websites are tailored to meet your specific requirements, incorporating custom features that align perfectly with your needs. Whether you seek a CRM, CMS, business management, or content-based website, I can provide the ideal solution.
-
-Web Applications have always been my passion, and I find immense fascination in web programming, app development, and website building. Continuously seeking knowledge and exploring innovative ideas in this domain, I am eager to expand my expertise and gain further experience.
-
-My ultimate goal is to create scalable and efficient applications, delivering seamless user experiences with pixel-perfect precision.
+Now, as a freshman at Oberlin College, I’m eager to merge my technical skills with new academic pursuits. I also have a deep love for traveling, constantly seeking inspiration from different places and cultures. This combination of tech, learning, and exploration drives me to keep innovating and perfecting my craft.
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
@@ -28,7 +24,7 @@ My ultimate goal is to create scalable and efficient applications, delivering se
 -  I’m looking for help with Backend & APIs
 -  Dreams: Become the world's no 1 full-stack web developer.
 -  Ask me about: Programming, Web Development, Web Design, Web Applications, Web Hosting
--  How to reach me: [info.shahriarabrarhimel@gmail.com](mailto:info.shahriarabrarhimel@gmail.com)
+-  How to reach me: [shimel@oberlin.edu](mailto:shimel@oberlin.edu)
 -  Pronouns: He/Him (Himel)
 -  Fun fact: I want to travel the whole world
 
@@ -101,37 +97,6 @@ My ultimate goal is to create scalable and efficient applications, delivering se
             
 </div>
 
-
-
-##  Favourite Stack
-
-<div align="left">
-
-<img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img alt="Redux.js" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-</div>
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)
-![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 
 
