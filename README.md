@@ -1,5 +1,5 @@
 ### Hi,<𝚌𝚘𝚍𝚎𝚛𝚜/>!
-<h1 align="center">I'm Shahriar Abrar Himel 👋 a technology enthusiast.</h1>
+<h1 align="center">I'm Himel 👋, a tech enthusiast who loves creating innovative web solutions.</h1>
 
 <p align="center">
 <img src="https://github.com/ShahriarAbrarHimel/ShahriarAbrarHimel/blob/main/Our%20APP.gif">
